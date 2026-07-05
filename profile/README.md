@@ -1,4 +1,4 @@
 # The Free Battery Factory
 
-We build software infrastructure for AI workflow boundaries.
+Software batteries for AI workflow boundaries.
 
