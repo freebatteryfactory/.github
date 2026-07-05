@@ -2,7 +2,7 @@
 
 Boundary infrastructure for AI-native software.
 
-[Website](https://freebatteryfactory.com) | [BatPAK docs](https://freebatteryfactory.com/batpak/overview) | [LiteShip docs](https://freebatteryfactory.com/liteship/overview) | [Founder](https://heyoub.dev)
+[Website](https://freebatteryfactory.com) | [batpak docs](https://freebatteryfactory.com/batpak/overview) | [LiteShip docs](https://freebatteryfactory.com/liteship/overview) | [Founder](https://heyoub.dev)
 
 [![batpak crate](https://img.shields.io/crates/v/batpak?label=batpak&color=eab308)](https://crates.io/crates/batpak)
 [![@czap/core npm](https://img.shields.io/npm/v/%40czap%2Fcore?label=@czap/core&color=22d3ee)](https://www.npmjs.com/package/@czap/core)
@@ -20,7 +20,7 @@ More on the line.
 
 | Module | Install | What it powers |
 |---|---|---|
-| [BatPAK](https://github.com/freebatteryfactory/batpak) | `cargo add batpak` | Embedded, sync-first event history for Rust: append-only logs, typed payloads, hash-chained ancestry, verifiable receipts, deterministic replay, and derived projections. Start with the [BatPAK overview](https://freebatteryfactory.com/batpak/overview). |
+| [batpak](https://github.com/freebatteryfactory/batpak) | `cargo add batpak` | Embedded, sync-first event history for Rust: append-only logs, typed payloads, hash-chained ancestry, verifiable receipts, deterministic replay, and derived projections. Start with the [batpak overview](https://freebatteryfactory.com/batpak/overview). |
 | [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip) | `pnpm add @czap/core` | Constraint-based adaptive rendering: continuous signals become named states, then cast to CSS, GPU, ARIA, AI-readable manifests, TypeScript unions, and runtime outputs. Start with the [LiteShip overview](https://freebatteryfactory.com/liteship/overview). |
 
 ## On the line
@@ -30,7 +30,7 @@ More on the line.
 
 ## The factory floor
 
-`BatPAK records. PCP packages context. LiteShip projects. Moonwalker navigates.`
+`batpak records. PCP packages context. LiteShip projects. Moonwalker navigates.`
 
 We care about the parts that usually get hand-waved until the pager starts singing:
 
