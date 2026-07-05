@@ -23,9 +23,14 @@ More on the line.
 | [BatPAK](https://github.com/freebatteryfactory/batpak) | `cargo add batpak` | Embedded, sync-first event history for Rust: append-only logs, typed payloads, hash-chained ancestry, verifiable receipts, deterministic replay, and derived projections. Start with the [BatPAK overview](https://freebatteryfactory.com/batpak/overview). |
 | [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip) | `pnpm add @czap/core` | Constraint-based adaptive rendering: continuous signals become named states, then cast to CSS, GPU, ARIA, AI-readable manifests, TypeScript unions, and runtime outputs. Start with the [LiteShip overview](https://freebatteryfactory.com/liteship/overview). |
 
+## On the line
+
+- **PCP:** context packets and receipts for reproducible workflow context.
+- **Moonwalker:** runtime research for declared agent intent, admission checks, and replayable operation trails.
+
 ## The factory floor
 
-`BatPAK records. LiteShip projects.`
+`BatPAK records. PCP packages context. LiteShip projects. Moonwalker navigates.`
 
 We care about the parts that usually get hand-waved until the pager starts singing:
 
