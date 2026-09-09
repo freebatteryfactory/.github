@@ -28,12 +28,12 @@ Our discipline is **Operator Experience (OpX)**. The software should carry more 
 
 ## Systems from the factory
 
-### [BatPAK](https://github.com/freebatteryfactory/batpak_DEPRECATED/tree/v0.10.0)
-**Event history · Rust + TypeScript SDK**
+### [Macroonz](https://github.com/freebatteryfactory/Macroonz)
+**Metaprogramming + adversarial testing · Rust**
 
-An embedded, sync-first event store for typed events, append-only history, verifiable receipts, and deterministic replay. The TypeScript SDK brings the same wire contracts and canonical encodings to application code.
+A callable compiler, procedural macros, and a test harness for generating repetitive code and challenging its behavior. Recipes describe the structure. Domain decisions stay with the author.
 
-[0.10.0 crate](https://crates.io/crates/batpak/0.10.0) · [SDK](https://www.npmjs.com/package/@batpak/sdk) · [Documentation](https://docs.rs/batpak/0.10.0/batpak/)
+[Source](https://github.com/freebatteryfactory/Macroonz) · [Releases](https://github.com/freebatteryfactory/Macroonz/releases) · [crates.io](https://crates.io/crates/macroonz) · [Documentation](https://docs.rs/macroonz)
 
 ### [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0)
 **Adaptive projection · TypeScript**
@@ -42,12 +42,12 @@ Shared definitions turn continuous signals into named states and project them ac
 
 [0.10.0 source](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0) · [npm](https://www.npmjs.com/package/@czap/core/v/0.10.0) · [Documentation](https://freebatteryfactory.com/liteship/overview)
 
-### [Macroonz](https://github.com/freebatteryfactory/Macroonz)
-**Metaprogramming + adversarial testing · Rust**
+### [BatPAK](https://github.com/freebatteryfactory/batpak_DEPRECATED/tree/v0.10.0)
+**Event history · Rust**
 
-A callable compiler, procedural macros, and a test harness for generating repetitive code and challenging its behavior. Recipes describe the structure. Domain decisions stay with the author.
+An embedded, sync-first event store for typed events, append-only history, verifiable receipts, and deterministic replay. The TypeScript SDK brings the same wire contracts and canonical encodings to application code.
 
-[Source](https://github.com/freebatteryfactory/Macroonz) · [Releases](https://github.com/freebatteryfactory/Macroonz/releases) · [crates.io](https://crates.io/crates/macroonz) · [Documentation](https://docs.rs/macroonz)
+[0.10.0 crate](https://crates.io/crates/batpak/0.10.0) · [SDK](https://www.npmjs.com/package/@batpak/sdk) · [Documentation](https://docs.rs/batpak/0.10.0/batpak/)
 
 ## One battery. One boundary.
 
