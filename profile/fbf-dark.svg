@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="272" viewBox="0 0 1000 272" role="img" aria-labelledby="title desc">
+<title id="title">Automate the work. Keep the authority.</title>
+<desc id="desc">A typographic identity panel with a geometric stack of bounded modules.</desc>
+<rect width="1000" height="272" rx="18" fill="#101D22"/>
+<path d="M 40 247 H 960" stroke="#2C4940"/>
+<text x="38" y="47" fill="#9BB7AC" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">THE FREE BATTERY FACTORY / OPERATOR EXPERIENCE</text>
+<text x="38" y="115" fill="#EDF7F1" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.7">Automate the work.</text>
+<text x="38" y="175" fill="#EDF7F1" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.7">Keep the authority.</text>
+<rect x="38" y="212" width="7" height="7" rx="1.5" fill="#8DE0AB"/>
+<text x="56" y="222" fill="#9BB7AC" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" letter-spacing="1.8">ONE BATTERY. ONE BOUNDARY.</text>
+<g transform="translate(790 51) scale(0.82)">
+<rect x="0" y="0" width="176" height="43" rx="8" fill="#18302F" stroke="#2C4940"/>
+<rect x="14" y="13" width="17" height="17" rx="4" fill="#8DE0AB" opacity="1.0"/>
+<path d="M 48 16 H 116 M 48 26 H 99" stroke="#9BB7AC" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+<path d="M 87 44 V 58" stroke="#8DE0AB" stroke-width="2"/>
+<rect x="0" y="59" width="176" height="43" rx="8" fill="#18302F" stroke="#2C4940"/>
+<rect x="14" y="72" width="17" height="17" rx="4" fill="#8DE0AB" opacity="0.84"/>
+<path d="M 48 75 H 128 M 48 85 H 90" stroke="#9BB7AC" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+<path d="M 87 103 V 117" stroke="#8DE0AB" stroke-width="2"/>
+<rect x="0" y="118" width="176" height="43" rx="8" fill="#18302F" stroke="#2C4940"/>
+<rect x="14" y="131" width="17" height="17" rx="4" fill="#8DE0AB" opacity="0.6799999999999999"/>
+<path d="M 48 134 H 140 M 48 144 H 81" stroke="#9BB7AC" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+</g>
+</svg>
