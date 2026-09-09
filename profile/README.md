@@ -4,11 +4,10 @@
   <img alt="Automate the work. Keep the authority." src="https://raw.githubusercontent.com/freebatteryfactory/.github/main/profile/fbf-light.svg" width="1000">
 </picture>
 
-[![batpak crate](https://img.shields.io/crates/v/batpak?label=batpak&color=eab308)](https://crates.io/crates/batpak)
-[![@czap/core npm](https://img.shields.io/npm/v/%40czap%2Fcore?label=@czap/core&color=22d3ee)](https://www.npmjs.com/package/@czap/core)
-[![factory status](https://img.shields.io/badge/factory-open-a78bfa)](https://freebatteryfactory.com)
-
 ---
+ [![batpak crate](https://img.shields.io/crates/v/batpak?label=batpak&color=eab308)](https://crates.io/crates/batpak)
+ [![@czap/core npm](https://img.shields.io/npm/v/%40czap%2Fcore?label=@czap/core&color=22d3ee)](https://www.npmjs.com/package/@czap/core)
+ [![factory status](https://img.shields.io/badge/factory-open-a78bfa)](https://freebatteryfactory.com)
 
 # The Free Battery Factory
 
