@@ -1,8 +1,8 @@
-# The Free Battery Factory
-
-Boundary infrastructure for AI-native software.
-
-[Website](https://freebatteryfactory.com) | [batpak docs](https://freebatteryfactory.com/batpak/overview) | [LiteShip docs](https://freebatteryfactory.com/liteship/overview) | [Founder](https://heyoub.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freebatteryfactory/.github/main/profile/fbf-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freebatteryfactory/.github/main/profile/fbf-light.svg">
+  <img alt="Automate the work. Keep the authority." src="https://raw.githubusercontent.com/freebatteryfactory/.github/main/profile/fbf-light.svg" width="1000">
+</picture>
 
 [![batpak crate](https://img.shields.io/crates/v/batpak?label=batpak&color=eab308)](https://crates.io/crates/batpak)
 [![@czap/core npm](https://img.shields.io/npm/v/%40czap%2Fcore?label=@czap/core&color=22d3ee)](https://www.npmjs.com/package/@czap/core)
@@ -10,39 +10,55 @@ Boundary infrastructure for AI-native software.
 
 ---
 
-The usual stack forgets the boring parts: event history, context receipts, projection boundaries, adaptive surfaces, and proof that says what happened when production gets loud.
+# The Free Battery Factory
 
-We build those parts as small, composable software modules. One module, one boundary. No wrapper theater. No platform tax.
+**Operational AI for consequential small teams.**  
+Rust · TypeScript · Cloudflare
 
-More on the line.
+[Website](https://freebatteryfactory.com) · [Work with us](mailto:hello@freebatteryfactory.com) · [Founder: Eassa Ayoub](https://github.com/heyoub)
 
-## Off the line
+## The business needs machinery. People shouldn't have to become it.
 
-| Module | Install | What it powers |
-|---|---|---|
-| [batpak](https://github.com/freebatteryfactory/batpak) | `cargo add batpak` | Embedded, sync-first event history for Rust: append-only logs, typed payloads, hash-chained ancestry, verifiable receipts, deterministic replay, and derived projections. Start with the [batpak overview](https://freebatteryfactory.com/batpak/overview). |
-| [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip) | `pnpm add @czap/core` | Constraint-based adaptive rendering: continuous signals become named states, then cast to CSS, GPU, ARIA, AI-readable manifests, TypeScript unions, and runtime outputs. Start with the [LiteShip overview](https://freebatteryfactory.com/liteship/overview). |
+The spreadsheet someone has to remember to update. The handoff that only works because one person knows what happens next. The same information entered three times because none of the systems agree.
 
-## On the line
+That's where we start. We learn how the work actually happens, decide what should change, and build the software around it. Sometimes the useful answer is an integration. Sometimes it's a new system. Sometimes nothing needs to be built.
 
-- **PCP:** context packets and receipts for reproducible workflow context.
-- **Moonwalker:** runtime research for declared agent intent, admission checks, and replayable operation trails.
+Our discipline is **Operator Experience (OpX)**. The software should carry more of the work without taking judgment away from the people responsible for it.
 
-## The factory floor
+**Automate the work. Keep the authority.**
 
-`batpak records. PCP packages context. LiteShip projects. Moonwalker navigates.`
+## Systems from the factory
 
-We care about the parts that usually get hand-waved until the pager starts singing:
+### [BatPAK](https://github.com/freebatteryfactory/batpak_DEPRECATED/tree/v0.10.0)
+**Event history · Rust + TypeScript SDK**
 
-- event history you can replay instead of interpret from vibes
-- receipts that say what happened, what was accepted, and what crossed the boundary
-- adaptive surfaces that keep UI, accessibility, GPU, and agent-facing state in agreement
-- architecture that moves complexity back to the machine instead of dumping it on the most overloaded user
+An embedded, sync-first event store for typed events, append-only history, verifiable receipts, and deterministic replay. The TypeScript SDK brings the same wire contracts and canonical encodings to application code.
+
+[0.10.0 crate](https://crates.io/crates/batpak/0.10.0) · [SDK](https://www.npmjs.com/package/@batpak/sdk) · [Documentation](https://docs.rs/batpak/0.10.0/batpak/)
+
+### [LiteShip / CZAP](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0)
+**Adaptive projection · TypeScript**
+
+Shared definitions turn continuous signals into named states and project them across CSS, graphics, accessibility, and runtime surfaces. Integrations connect the system to Astro, React, Vite, and Cloudflare.
+
+[0.10.0 source](https://github.com/freebatteryfactory/LiteShip/tree/v0.10.0) · [npm](https://www.npmjs.com/package/@czap/core/v/0.10.0) · [Documentation](https://freebatteryfactory.com/liteship/overview)
+
+### [Macroonz](https://github.com/freebatteryfactory/Macroonz)
+**Metaprogramming + adversarial testing · Rust**
+
+A callable compiler, procedural macros, and a test harness for generating repetitive code and challenging its behavior. Recipes describe the structure. Domain decisions stay with the author.
+
+[Source](https://github.com/freebatteryfactory/Macroonz) · [Releases](https://github.com/freebatteryfactory/Macroonz/releases) · [crates.io](https://crates.io/crates/macroonz) · [Documentation](https://docs.rs/macroonz)
+
+## One battery. One boundary.
+
+We build reusable parts because the same problems show up in different businesses. But the business is the starting point, not a requirement to adopt our libraries.
+
+Our work spans workflow systems, integrations, developer infrastructure, and architecture review. Rust, TypeScript, and Cloudflare are tools we build with; the point is to make the actual work better.
 
 ## Work with us
 
-Need architecture advisory, a cognitive ergonomics audit, or infrastructure hardening? Bring the codebase, the diagram, or the napkin sketch. We read the system, find where the load actually lives, and hand you the truth in useful pieces.
+Bring the process that keeps stalling, the codebase that's fighting you, or the diagram that doesn't quite explain what's happening. We'll start with the work, not a shopping list of AI features.
 
-No deck theater. No monthly nodding ritual. Real architecture review, real code, real decisions.
+**[hello@freebatteryfactory.com](mailto:hello@freebatteryfactory.com)** · [freebatteryfactory.com](https://freebatteryfactory.com)
 
-[The door's open.](https://freebatteryfactory.com)
